@@ -11,3 +11,4 @@ console.log('Hello whole code block');
 ````
 
 - list item 1
+- list item 2
